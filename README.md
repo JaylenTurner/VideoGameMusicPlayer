@@ -1,6 +1,8 @@
 # VideoGameMusicPlayer
 This code allows you to enjoy your two favorite things, music and video games, without having to tradeoff in game performance. Listen to your favorite songs through Spotify but also be able to hear footsteps and gunshots in your favorite FPS game.
 
+[![Watch the video](https://i.imgur.com/akN6nzj.jpeg)](https://youtu.be/tPXNFMpF_PM)
+
 # Use steps:
 1. First you'll need Spotify premium in order to use their API
 2. Log into your API dashboard, make a new app, and gather your credentials. You'll need your client id and client secret.
